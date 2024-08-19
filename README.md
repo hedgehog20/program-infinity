@@ -1,6 +1,6 @@
 *How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?*
 
-To interpret user needs and implement them into a program, I prefer to get to know them by talking to them,
+To interpret user needs and implement them into a program, I prefer to get to know the user by talking to them,
 observing how they interact with systems, and listening to their desires and frustrations. This gives me a clear idea
 of what they need and the obstacles they are facing.
 
